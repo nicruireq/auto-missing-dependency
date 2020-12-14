@@ -3,4 +3,6 @@ auto-missing-dependency is a script intended to find missing dependencies (dinam
 
 ## Usage
 chmod +x auto-missing-dependency.sh
+
+
 ./auto-missing-dependency path-to-binary-file
